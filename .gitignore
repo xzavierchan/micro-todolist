@@ -19,3 +19,5 @@
 
 # Go workspace file
 go.work
+user/conf/config.ini
+user/go.sum
