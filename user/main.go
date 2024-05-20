@@ -25,4 +25,5 @@ func main() {
 	_ = services.RegisterUserServiceHandler(microService.Server(), new(core.UserService))
 	//启动微服务
 	_ = microService.Run()
+
 }

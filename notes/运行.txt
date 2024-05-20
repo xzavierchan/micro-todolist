@@ -1,0 +1,1 @@
+得打开D:\Program Files (x86)\GoWorks下的etcd和etcdkeeper
